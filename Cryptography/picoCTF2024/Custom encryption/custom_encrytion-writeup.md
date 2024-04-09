@@ -97,7 +97,7 @@ def dynamic_xor_decrypt(semi_text, text_key):
     plaintext += decrypted_char
   return plaintext[::-1]
 ```
-## Decrypt.py
+## decrypt_custom.py
 ```sh
 def dynamic_xor_decrypt(semi_text, text_key):
   plaintext = ""
