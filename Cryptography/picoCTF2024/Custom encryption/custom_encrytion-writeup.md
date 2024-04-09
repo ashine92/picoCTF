@@ -1,6 +1,6 @@
 # Custom Encryption
 
-Với hàm này ta sẽ phân tích từng hàm một từ hàm main trở lên:
+Với bài này ta sẽ phân tích từng hàm một từ hàm main trở lên:
 ```sh
 if __name__ == "__main__":
     message = sys.argv[1]
