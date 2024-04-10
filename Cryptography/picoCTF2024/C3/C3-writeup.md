@@ -1,4 +1,4 @@
-![Screenshot 2024-03-18 231559](https://github.com/ashine92/picoCTF/assets/62413378/8dc457be-1d09-49ca-b86f-afda11bb41dc)# C3 
+# C3 
 
 ```sh
 lookup1 = "\n \"#()*+/1:=[]abcdefghijklmnopqrstuvwxyz"
