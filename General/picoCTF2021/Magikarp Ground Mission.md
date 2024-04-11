@@ -1,4 +1,4 @@
-Kết nối SSH bằng lệnh `ssh [ctf-player@venus.picoctf.net](mailto:ctf-player@venus.picoctf.net) -p 55539` và nhập password: 481e7b14
+Kết nối SSH bằng lệnh `ssh ctf-player@venus.picoctf.net -p 55539` và nhập password: 481e7b14
 
 ```python
 ctf-player@pico-chall$ ls
