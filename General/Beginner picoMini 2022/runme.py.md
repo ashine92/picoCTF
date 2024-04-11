@@ -1,0 +1,6 @@
+# runme.py
+
+```python
+$ python3 runme.py
+picoCTF{run_s4n1ty_run}
+```
